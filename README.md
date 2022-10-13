@@ -8,7 +8,7 @@
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTAME ✨`
 
-<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/BK_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595983186566=texthola" target="blank"><img src="https://img.shields.io/badge/BK_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # `🔥GRUPOS OFICIALES`
 
@@ -22,7 +22,7 @@
 
 # `❤️BOTS OFICIALES`
 
-<a href="http://wa.me/595983186566text=hola" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/Ya no está disponible.-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
