@@ -40,14 +40,10 @@
 ### `—◉ ⚜️ LETRA DEL BOT ⚜️`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
   
-### `—◉ 🛡️ ACTIVAR EN REPLIT 🛡️`
 
-[![Run on Repl.it](https://repl.it/badge/github/DIEGO-OFC/DORRAT-BOT-MD)](https://repl.it/github/DIEGO-OFC/DORRAT-BOT-MD)
-> [❗ obligatorio ❗] si vas a instalar en replit edita la carpeta dorrat-inicio.js y ponle index.js
-> Es obligatorio o no funcionará en replit
 ### `—◉ ⚒️ 𝐀𝐉𝐔𝐒𝐓𝐄𝐒 ⚒️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/configuracion.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Micasatio/BK/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Micasatio/BK/blob/main/configuracion.js)
 
 ### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
