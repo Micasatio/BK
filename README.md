@@ -100,6 +100,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `agradecimiento a`
 <a href="https://github.com/Agromos0"><img src="https://github.com/Agromos0.png" width="300" height="300" alt="DIEGO-OFC"/></a>
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="300" height="300" alt="DIEGO-OFC"/></a>
+<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
 
 
 > BLACK_BOT _ By BK
