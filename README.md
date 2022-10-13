@@ -57,8 +57,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> git clone https://github.com/Micasatio/BK
+> cd BK
 > yarn install 
 > npm install
 > npm update
@@ -69,7 +69,7 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd BK
 > npm start
 ```
 
@@ -79,8 +79,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
-> rm -rf DORRATSESSION 
+> cd BK
+> rm -rf BKSESSION 
 > npm start
 ```
 
